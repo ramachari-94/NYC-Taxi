@@ -11,7 +11,7 @@ The data was originally published by the NYC Taxi and Limousine Commission (TLC)
 The task is to build a model that predicts the total ride duration of taxi trips in New York City. The primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables. </br>
 
 ## Data Summary
-The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine commission (TLC). ### The contents of NYC Taxi Time Prediction are:
+The data was originally published by the NYC Taxi and Limousine commission (TLC). ### The contents of NYC Taxi Time Prediction are:
 * id - a unique identifier for each trip.
 * vendor_id - a code indicating the provider associated with the trip record.
 * pickup_datetime - date and time when the meter was engaged.
